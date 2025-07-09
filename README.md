@@ -16,6 +16,8 @@
 - [Google Drive](https://drive.google.com) - storing data
 - [Confluence](https://www.atlassian.com/software/confluence) - storing informations and documents about project
 - [Jira](https://www.atlassian.com/software/jira) - project management
+- [MySQL](https://www.mysql.com) - relational database management system
+- [Oracle VirtualBox](https://www.virtualbox.org) - full virtualization software
 
 ---
 
@@ -32,6 +34,7 @@ Rest API testing
 - Console & PC Testing
 - AD Hoc testing
 - Regression testing
+- Setting up and operating virtual machines
 
 
 ---
