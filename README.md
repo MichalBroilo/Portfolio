@@ -25,7 +25,6 @@ Rest API testing
 - [ITF+](https://www.comptia.org/en/certifications/itf/) Level knowledge
 - Software testing
 - Creating test cases
-- Reporting bugs
 - Creating bug reports
 - Performing smoke tests
 - Functional Testing
