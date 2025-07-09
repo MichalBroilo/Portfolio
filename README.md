@@ -52,7 +52,7 @@ Rest API testing
 
 ## 📓 Projects & Contributions
 
-- Testing support for AAA title at QLOC S.A.
+- Testing support for [AAA title](https://www.mobygames.com/person/1638138/michał-broilo/credits/) at QLOC S.A.
 - Reproduced and documented dozens of critical bugs
 
 ---
