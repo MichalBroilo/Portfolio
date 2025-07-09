@@ -3,26 +3,26 @@
 - Former Quality Assurance Tester at QLOC S.A.  
 - Game QA | Functional Testing  
 - Languages: French, English, Polish  
-- [LinkedIn](https://www.linkedin.com/in/michal-broilo-02a724185/)
+- [ My LinkedIn profile](https://www.linkedin.com/in/michal-broilo-02a724185/)
 
 ---
 
 ## 🔧 My Toolkit
 
 - Excel / Google Sheets
-- TestRail - test case management tool
-- Slack - communication within the team
-- Xampp - practicing SQL
-- Google Drive - storing data
-- Confluence - storing informations and documents about project
-- Jira - project management
+- [TestRail](https://www.testrail.com) - test case management tool
+- [Slack](https://slack.com) - communication within the team
+- [Xampp](https://www.apachefriends.org) - practicing SQL
+- [Google Drive](https://drive.google.com) - storing data
+- [Confluence](https://www.atlassian.com/software/confluence) - storing informations and documents about project
+- [Jira](https://www.atlassian.com/software/jira) - project management
 
 ---
 
 ## 💻 Tech skills 
 
 Rest API testing
-- ITF+ Level knowledge
+- [ITF+](https://www.comptia.org/en/certifications/itf/) Level knowledge
 - Software testing
 - Creating test cases
 - Reporting bugs
@@ -37,7 +37,18 @@ Rest API testing
 
 ---
 
-## 📂 Projects & Contributions
+## 📁 Soft skills
+
+- precision
+- professionalism
+- independence
+- assertiveness
+- patience
+- empathy
+
+---
+
+## 📓 Projects & Contributions
 
 - Testing support for AAA title at QLOC S.A.
 - Reproduced and documented dozens of critical bugs
